@@ -16,7 +16,7 @@
 		<header id="header" <?php if ( defined( 'HTML5UP_USE_ALT_HEADER' ) ): ?>class="alt"<?php endif ?>>
 			<h1 id="logo">
 				<a href="<?php echo home_url( '/' ) ?>">
-					<?php bloginfo( 'name' ) ?> <?php bloginfo( 'description' ) ?>
+					<?php bloginfo( 'name' ) ?> <span><?php bloginfo( 'description' ) ?></span>
 				</a>
 			</h1>
 

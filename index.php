@@ -127,7 +127,7 @@ get_header();
 							<div class="6u">
 							
 								<section>
-									<a href="#" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image feature"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/pic01.jpg" alt="" /></a>
 									<header>
 										<h3>A Really Fast Train</h3>
 									</header>
@@ -138,7 +138,7 @@ get_header();
 							<div class="6u">
 							
 								<section>
-									<a href="#" class="image feature"><img src="images/pic02.jpg" alt="" /></a>
+								<a href="#" class="image feature"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/pic02.jpg" alt="" /></a>
 									<header>
 										<h3>An Airport Terminal</h3>
 									</header>
@@ -151,7 +151,7 @@ get_header();
 							<div class="6u">
 							
 								<section>
-									<a href="#" class="image feature"><img src="images/pic03.jpg" alt="" /></a>
+								<a href="#" class="image feature"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/pic03.jpg" alt="" /></a>
 									<header>
 										<h3>Hyperspace Travel</h3>
 									</header>
@@ -162,7 +162,7 @@ get_header();
 							<div class="6u">
 							
 								<section>
-									<a href="#" class="image feature"><img src="images/pic04.jpg" alt="" /></a>
+								<a href="#" class="image feature"><img src="<?php echo get_stylesheet_directory_uri() ?>/images/pic04.jpg" alt="" /></a>
 									<header>
 										<h3>And Another Train</h3>
 									</header>

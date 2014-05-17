@@ -18,5 +18,6 @@
 			<span class="copyright">&copy; Untitled. All rights reserved. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
 		
 		</footer>
+		<?php wp_footer() ?>
 	</body>
 </html>
