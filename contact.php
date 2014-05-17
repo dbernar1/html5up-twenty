@@ -1,4 +1,8 @@
 <?php
+/*
+Template Name: Contact
+*/
+
 // TODO: update body class in CSS to use page-template-contact or so
 get_header();
 ?>

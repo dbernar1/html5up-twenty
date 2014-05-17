@@ -1,4 +1,8 @@
 <?php
+/*
+Template Name: Right sidebar
+*/
+
 // TODO: update body class in CSS to use page-template-right-sidebar or so
 get_header();
 ?>

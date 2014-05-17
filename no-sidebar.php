@@ -1,4 +1,8 @@
 <?php
+/*
+Template Name: No sidebar
+*/
+
 // TODO: update body class in CSS to use page-template-no-sidebar or so
 get_header();
 ?>

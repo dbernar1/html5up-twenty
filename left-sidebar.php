@@ -1,4 +1,8 @@
 <?php
+/*
+Template Name: Left sidebar
+*/
+
 // TODO: update body class in CSS to use page-template-left-sidebar or so
 get_header();
 ?>
